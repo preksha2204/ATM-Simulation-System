@@ -42,7 +42,7 @@ The ATM Simulation System is a JavaFX-based desktop application that simulates t
   ``` git clone https://github.com/preksha2204/ATM-Simulation-System.git
 * Open the project in an IDE (VS Code, IntelliJ, or Eclipse). I would recommend to use BlueJ
 * Configure the database connection in Conn.java:
-  ``` Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/ATMSystem", "root", "your_password");
+  ```java Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/ATMSystem", "root", "your_password");
 * Run StartingPage.java to launch the application.
 
 
