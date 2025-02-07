@@ -1,8 +1,10 @@
 # ATM Simulation System Using JavaFX
 
 
+
 ## Project Description
 The ATM Simulation System is a JavaFX-based desktop application that simulates the functionality of an ATM. Users can log in, check their account balance, withdraw money, and perform other banking operations. The application integrates various concepts of Object-Oriented Programming(OOP), JavaFX for the user interface, MySQL for database management, and JDBC for database connectivity.
+
 
 
 ## Features
@@ -13,11 +15,13 @@ The ATM Simulation System is a JavaFX-based desktop application that simulates t
 * Database Integration: MySQL for storing user data and transactions.
 
 
+
 ## Technologies Used
 * Object-Oriented Programming (OOP): Ensures modular, reusable, and maintainable code through encapsulation, inheritance, and polymorphism.
 * JavaFX: Used for building the graphical user interface (GUI).
 * MySQL: Chosen for its efficiency in handling structured financial data.
 * JDBC: Enables database connectivity between Java and MySQL.
+
 
 
 ## Challenges Faced
@@ -26,10 +30,12 @@ The ATM Simulation System is a JavaFX-based desktop application that simulates t
 * Handling concurrent user transactions efficiently.
 
 
+
 ## Future Enhancements
 * Implement multi-factor authentication for security.
 * Add a transaction history feature.
 * Develop a mobile-friendly version of the application.
+
 
 
 ## Installation and Running the Project
@@ -48,11 +54,13 @@ The ATM Simulation System is a JavaFX-based desktop application that simulates t
 * Run StartingPage.java to launch the application.
 
 
+
 ## Troubleshooting
 If you get the error Access denied for user 'root'@'localhost', ensure:
 MySQL is running.
 Credentials in Conn.java are correct.
 The user has proper permissions in MySQL.
+
 
 
 ## Contributors
