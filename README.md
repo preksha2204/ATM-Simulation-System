@@ -64,4 +64,4 @@ The user has proper permissions in MySQL.
 
 
 ## Contributors
-Preksha K
+- [Preksha K](https://github.com/preksha2204)
